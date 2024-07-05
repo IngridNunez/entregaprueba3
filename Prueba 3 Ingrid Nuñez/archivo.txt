@@ -1,0 +1,1 @@
+ id jugador: hunnigan, nombre: ingrid, JUEGO VALORANT:  1000, JUEGO FORNITE: 2000, JUEGO FIFA: 12000
